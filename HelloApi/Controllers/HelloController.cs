@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 
 namespace HelloApi.Controllers
 {
@@ -6,10 +6,16 @@ namespace HelloApi.Controllers
     [Route("api/[controller]")]
     public class HelloController : ControllerBase
     {
-        [HttpGet]
-        public IActionResult GetHello()
+        [HttpPost]
+        public IActionResult CreateHello([FromBody] string message)
         {
-            return Ok(new { Message = "Hello, world!" });
+            return CreatedAtAction(nameof(CreateHello), new { Message = message });
+        }
+
+        [HttpDelete]
+        public IActionResult DeleteHello()
+        {
+            return NoContent();
         }
     }
 }
