@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace HelloApi
 {
     public class User
