@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace HelloApi.Models
+namespace HelloApi
 {
     public class User
     {
