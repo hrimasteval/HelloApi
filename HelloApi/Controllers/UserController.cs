@@ -4,7 +4,7 @@ namespace HelloApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class UsersController : ControllerBase
+    public class UserController : ControllerBase
     {
         [HttpPost]
         public IActionResult CreateHello([FromBody] string message)
