@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\my-repo\HelloApi\HelloApi\obj\Debug\net7.0\HelloApi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\my-repo\HelloApi\HelloApi\obj\Debug\net7.0\HelloApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\my-repo\HelloApi\HelloApi\obj\Debug\net7.0\HelloApi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\my-repo\HelloApi\HelloApi\obj\Debug\net7.0\HelloApi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\my-repo\HelloApi\HelloApi\obj\Debug\net7.0\HelloApi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\my-repo\HelloApi\HelloApi\obj\Debug\net7.0\HelloApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\my-repo\HelloApi\HelloApi\obj\Debug\net7.0\HelloApi.sourcelink.json
